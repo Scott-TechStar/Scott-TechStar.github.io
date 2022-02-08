@@ -1,7 +1,7 @@
 /**/
-@import "https://github.com/johnnie33/johnnie33.github.io/blob/main/reset.css";
-@import "https://github.com/johnnie33/johnnie33.github.io/blob/main/grid.css";
-@import "https://github.com/johnnie33/johnnie33.github.io/blob/main/superfish.css";
+@import "../johnnie33.github.io/blob/main/reset.css";
+@import "../johnnie33.github.io/blob/main/grid.css";
+@import "../johnnie33.github.io/blob/main/superfish.css";
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 @import url(http://fonts.googleapis.com/css?family=Lobster);
 
