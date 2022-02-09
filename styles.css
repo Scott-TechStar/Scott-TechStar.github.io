@@ -1,5 +1,5 @@
 /**/
-@import url(https://johnnie33.github.io/reset.css);
+@import url(https://johnnie33.github.io/reset.css');
 @import url(https://johnnie33.github.io/grid.css);
 @import url(https://johnnie33.github.io/superfish.css);
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans);
@@ -86,7 +86,7 @@ ul {
 }
 
 ul.list li{
-  background: url(../johnnie33.github.io/images/marker.png) 0 8px no-repeat;
+  background: url('https://johnnie33.github.io/images/marker.png') 0 8px no-repeat;
   padding-left: 11px;
   color: #464646;
   margin-bottom: 5.5px;
@@ -201,7 +201,7 @@ a.btn.m1 {
 }
 
 .hor_separator {
-  background: url(../johnnie33.github.io/images/hor_separator.png) 0 bottom no-repeat;
+  background: url('https://johnnie33.github.io/images/hor_separator.png') 0 bottom no-repeat;
   height: 40px;
 }
 /*header*/
@@ -256,7 +256,7 @@ header h1 a img {
 }
 .content.page1 {
   padding-top: 50px;
-  background: url(../johnnie33.github.io/images/hor_separator.png) center 50px no-repeat;
+  background: url('https://johnnie33.github.io/images/hor_separator.png') center 50px no-repeat;
 }
 
 .content.page1 h2 {
@@ -328,7 +328,7 @@ header h1 a img {
 }
 
 .prev {
-  background: url(https://johnnie33.github.io/images/prevnext.png) 0 bottom no-repeat;
+  background: url('https://johnnie33.github.io/images/prevnext.png') 0 bottom no-repeat;
   display: block;
   position: absolute;
   right: 42px;
