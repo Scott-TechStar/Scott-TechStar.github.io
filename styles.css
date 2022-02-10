@@ -1,9 +1,5 @@
 /**/
-@import url("https://johnnie33.github.io/reset.css");
-@import url("https://johnnie33.github.io/grid.css");
-@import url("https://johnnie33.github.io/superfish.css");
-@import url("http://fonts.googleapis.com/css?family=Noto+Sans");
-@import url("http://fonts.googleapis.com/css?family=Lobster");
+
 
 
 
@@ -472,7 +468,7 @@ header h1 a img {
 }
 
 .next1 {
-  background: url(https://johnnie33.github.io/images/prevnext.png) right bottom no-repeat;
+  background: url("https://johnnie33.github.io/images/prevnext.png") right bottom no-repeat;
   display: block;
   z-index: 999;
   float: right;
