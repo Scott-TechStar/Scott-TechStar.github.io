@@ -3,7 +3,7 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // access
-        $secretKey = '6LeB4o0eAAAAAItFhuxEWUZpnxv4taMyv5gqdOQA';
+        $secretKey = 'secret_key';
         $captcha = $_POST['g-recaptcha-response'];
 
         if(!$captcha){
