@@ -21,6 +21,7 @@ p {
 }
 a {
 	text-decoration: none!important;
+	color: black;
 }
 ul {
 	padding: 0;
