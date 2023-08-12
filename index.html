@@ -117,7 +117,7 @@
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
                 </ul>
-                <h1>Reviews (<span id="reviewScore">0</span>)</h1>
+                <h1><span id="reviewScore">Review (0)</span></h1>
                 <button onclick="increaseReviewScore()">Add Review</button>
               </div>
             </div>
@@ -382,6 +382,20 @@
           }
       }
     </script>
+    <script>
+      let score = 0;
+
+  function increaseReviewScore() {
+    score++;
+    updateReviewScore();
+  }
+
+  function updateReviewScore() {
+    const reviewScoreElement = document.getElementById("reviewScore");
+    reviewScoreElement.textContent = score;
+  }
+  </script>
+    
 
 <!-- Start of LiveChat (www.livechatinc.com) code -->
 <script>
