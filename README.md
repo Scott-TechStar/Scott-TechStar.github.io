@@ -1,3 +1,4 @@
+![Project 2 Screenshot](https://github.com/Scott-TechStar/Scott-TechStar.github.io/blob/main/sources/images/SkillScroll.png)
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +11,7 @@
   <strong><h1 class="display-4"><i>Skill Scroll Website</i></h1></strong>
   <p class="lead">Discover, Learn, and Showcase Your Skills with SkillScroll</p>
 </div>
-![Project 2 Screenshot](https://github.com/Scott-TechStar/Scott-TechStar.github.io/blob/main/sources/images/SkillScroll.png)
+
 <div class="container mt-5">
   <h2>Features</h2>
   <ul>
